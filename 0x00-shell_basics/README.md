@@ -1,1 +1,1 @@
-descrption of script
+description of each script
