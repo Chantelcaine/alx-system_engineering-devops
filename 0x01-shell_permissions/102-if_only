@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown --find=guillaume hello betty
+sudo chown --find=guillaume betty hello
